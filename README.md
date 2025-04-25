@@ -1,4 +1,4 @@
-# Sistema Bancário Simples em Java
+# Sistema Bancário em Java
 
 Este projeto é uma simulação simples de um sistema bancário feito em Java.
 
